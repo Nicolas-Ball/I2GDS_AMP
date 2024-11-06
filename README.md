@@ -124,18 +124,11 @@ To switch from AlphaFold 2 to AlphaFold 2.2.2, change the partition and module t
 ## Reminders
 
 Make sure to replace placeholders such as `<your allocation account>`,`<your email>`,`<JOBNAME>`, `<path to fasta input file(s)>`, and `<path to desired output directory>` with your specific paths and account information.
-## Test files
 
+## Test files
 A test fasta file containing one sequence can be found here [example_single_sequence.fasta](https://github.com/Nicolas-Ball/I2GDS_AMP/blob/main/fasta%20files/example_single_sequence.fasta)
 
 A test fasta file containing three sequences can be found here [example_multi_sequence.fasta](https://github.com/Nicolas-Ball/I2GDS_AMP/blob/main/fasta%20files/example_multi_sequence.fasta)
-
-
-## Test files
-
-A test fasta file containing one sequence can be found here [example_single_sequence.fasta](https://github.com/nb3228/i2gdstest/blob/main/fasta%20files/example_single_sequence.fasta)
-
-A test fasta file containing three sequences can be found here [example_multi_sequence.fasta](https://github.com/nb3228/i2gdstest/blob/main/fasta%20files/example_multi_sequence.fasta)
 
 
 ## Viewing 3D protein structures
